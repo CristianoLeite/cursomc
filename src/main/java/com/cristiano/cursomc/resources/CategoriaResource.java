@@ -1,8 +1,5 @@
 package com.cristiano.cursomc.resources;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -24,9 +21,6 @@ public class CategoriaResource {
 	public ResponseEntity<?> find(@PathVariable Integer id) {
 		Categoria obj = service.buscar(id);
 		return ResponseEntity.ok(obj);
-		
-		
-		
+				
 	}
-
 }
