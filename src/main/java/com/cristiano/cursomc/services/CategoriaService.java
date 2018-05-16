@@ -11,8 +11,7 @@ import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;
 
 import com.cristiano.cursomc.domain.Categoria;
-import com.cristiano.cursomc.domain.Cliente;
-import com.cristiano.cursomc.dto.CategoriaDTO;
+	import com.cristiano.cursomc.dto.CategoriaDTO;
 import com.cristiano.cursomc.repositories.CategoriaRepository;
 import com.cristiano.cursomc.services.exceptions.DataIntegrityException;
 import com.cristiano.cursomc.services.exceptions.ObjectNotFoundException;

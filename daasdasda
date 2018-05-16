@@ -1,0 +1,23 @@
+[33m337a923[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m correções: update em CategoriaService e construtor de pagamento
+[33mf8a40ba[m put, delete e get para Cliente
+[33m9ce1854[m personilizando o retorno da validação
+[33m4033772[m validação sintatica com bean validation
+[33m5bce2ae[m paginação com parametros opcionais na requisição
+[33m7030464[m Listando todas Categorias com DTO
+[33mcca209a[m Deletando uma Categoria com DELETE
+[33ma0a4717[m atualizando Categorias com PUT
+[33m1382f71[m Inserindo nova Categoria com POST
+[33m7580ce5[m atualização somente @JsonIgnore
+[33m4b18d0b[m endpoint /pedidos/{id} disponibilizado
+[33m375be4b[m ItemPedido e ItemPedidoPK
+[33m3318149[m Criado Pedido, Pagamento e EstadoPagamento
+[33m74c944a[m Endpoint /clientes/{id} criado
+[33m90f61c5[m Cliente, tipo Cliente, Telefones, endereços
+[33m2b80049[m estado e cidade
+[33m3e76c22[m Ajustes no endpoint /categorias/id
+[33mb632176[m Criando operação de instanciação
+[33m190f73f[m Criando repository e service para  Categoria
+[33ma71a06d[m Banco de dados h2 e criação automática do banco de dados com jpa
+[33m3dcd2d4[m testando primeira classe de dominio Categoria
+[33mcdba566[m Rest Testado
+[33mebf892e[m Projeto Criado
